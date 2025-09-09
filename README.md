@@ -6,7 +6,9 @@ Your API will be running at `http://localhost:3000`
 
 ## Testing Video with Postman
 
-[![https://ik.imagekit.io/5wegcvcxp/Resume-Youtube/thumbnail.png][video]]
+[![Testing Video with Postman](https://ik.imagekit.io/5wegcvcxp/Resume-Youtube/thumbnail.png)](https://photos.app.goo.gl/NtSF6xSZgw6FwVdo6)
+
+> **🎬 Demo Video**: Click the thumbnail above to watch the API testing demonstration with Postman
 
 ## Entity Relationship Diagram
 
